@@ -8,7 +8,7 @@
   "server": {
     "ip": "AnonymousSMP.aternos.me",
     "port": 22608,
-    "version": "",
+    "version": "1.19.2",
     "try-creative": false
   },
   "position": {
